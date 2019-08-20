@@ -5,3 +5,5 @@ function sayHello() {
 function sayBy() {
     alert('Say bye from Git');
 }
+
+//some changes here
